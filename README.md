@@ -8,7 +8,7 @@
 
   <h2 align="center">Code : <a href="https://github.com/spike-lgtm/IRAS-Auto-Faculty-Evaluation/blob/main/auto-faculty-evaluation.js">IRAS-Auto-Faculty-Evaluation<a></h2>
 
-  _this code was heavyly inspired from the works of [Md Abu Sufian](https://github.com/mdabusufian)_
+  <br><br><br>_This code was heavyly inspired from the works of [Md Abu Sufian](https://github.com/mdabusufian)_
 
 
 
